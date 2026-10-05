@@ -1,71 +1,112 @@
-# 🌟 ¡Hola, soy Federico! 🌟
+<a href="https://portafolio-federico.vercel.app">
+  <img src="assets/banner.svg" width="100%" alt="Federico Martínez — desarrollador full-stack en Medellín, Colombia">
+</a>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="150"/>
-  <p><strong>Bienvenid@ a mi rincón de código, creatividad y tecnología</strong></p>
-</div>
+<p align="center">
+  <a href="https://portafolio-federico.vercel.app"><img src="https://img.shields.io/badge/Portafolio-c48a71?style=for-the-badge&logo=vercel&logoColor=18211b" alt="Portafolio"></a>
+  <a href="https://www.linkedin.com/in/federico-martinez-10b58931a/"><img src="https://img.shields.io/badge/LinkedIn-3E5A47?style=for-the-badge&logoColor=f3ece0" alt="LinkedIn"></a>
+  <a href="mailto:federicoml2004@gmail.com"><img src="https://img.shields.io/badge/Escríbeme-22302a?style=for-the-badge&logo=gmail&logoColor=e9dfcf" alt="Correo"></a>
+</p>
 
----
+Convierto procesos de negocio en software que funciona: tiendas, apps que se instalan en el celular y sistemas de gestión a medida. Vengo de la ingeniería de procesos, así que antes de programar me siento a entender cómo opera el negocio y dónde se pierde el tiempo.
 
-## ✨ Sobre mí ✨
-- 🌍 **Soy:** Desarrollador | Ingeniero de Procesos | Emprendedor
-- 🎓 **Estudio:** En la universidad, persiguiendo mis sueños
-- 💻 **Me apasiona:** Crear software con C, JavaScript y React
-- 🏢 **Trabajo en:** Ingeniería de Procesos en una empresa textil
-- 🐶 **Dato curioso:** Mi mejor amiga es Valkiria, mi perrita ❤️
+## Ahora mismo
 
----
+- **Trabajo en [Tugu](https://tugu-landing.vercel.app)**, una fintech de pagos con huella digital.
+- **Construyo mi asistente personal**: una app donde la IA es el centro, conversa conmigo, anota post-its y tareas y me manda los avisos al iPhone.
+- **Preparo [Vuelta](#en-el-taller)**, una app de domicilios de barrio para Medellín.
+- **Estudio** en la Universidad Pontificia Bolivariana.
 
-## 🚀 ¿Qué estoy haciendo? 🚀
-- 📱 Desarrollando una **app de análisis de notas universitarias con IA**
-- 🍽️ Creando **menús digitales con QR** para restaurantes en Medellín
-- ⚡ Organizando actividades scouts con temática de **Harry Potter**
+## En producción
 
-### Mis proyectos estrella 🌟
-| Proyecto | Descripción | Tecnologías |
-|----------|-------------|-------------|
-| [Calculadora Avanzada](link) | Registro de 8 números y operaciones avanzadas | C |
-| [Menús Digitales QR](link) | Gestión de pedidos y pagos electrónicos | JavaScript, React |
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <a href="https://silentofficial-co.vercel.app"><img src="assets/silent.webp" alt="SILENT"></a>
+      <b><a href="https://silentofficial-co.vercel.app">SILENT®</a></b><br>
+      Tienda online de streetwear con catálogo por drops y carrito.
+    </td>
+    <td width="33%" valign="top">
+      <a href="https://tugu-landing.vercel.app"><img src="assets/tugu.webp" alt="Tugu"></a>
+      <b><a href="https://tugu-landing.vercel.app">Tugu</a></b><br>
+      Landing de una fintech de datáfonos con lector de huella.
+    </td>
+    <td width="33%" valign="top">
+      <a href="https://entredos-psi.vercel.app"><img src="assets/entredos.webp" alt="Entre Dos"></a>
+      <b><a href="https://entredos-psi.vercel.app">Entre Dos</a></b><br>
+      Espacio privado para parejas: recuerdos, diario y cápsulas del tiempo.
+    </td>
+  </tr>
+  <tr>
+    <td width="33%" valign="top">
+      <a href="https://www.thegoodtrip.online"><img src="assets/thegoodtrip.webp" alt="The Good Trip"></a>
+      <b><a href="https://www.thegoodtrip.online">The Good Trip</a></b><br>
+      Prototipo de app de transporte con vistas de pasajero y conductor.
+    </td>
+    <td width="33%" valign="top">
+      <a href="https://sara-posso-portafolio.vercel.app"><img src="assets/saraposso.webp" alt="Portafolio de Sara Posso"></a>
+      <b><a href="https://sara-posso-portafolio.vercel.app">Sara Posso</a></b><br>
+      Portafolio bilingüe para una diseñadora de vestuario.
+    </td>
+    <td width="33%" valign="top">
+      <a href="https://zteve0.github.io/AppHibridaEntrga2/"><img src="assets/apphibrida.webp" alt="MiNevera"></a>
+      <b><a href="https://zteve0.github.io/AppHibridaEntrga2/">MiNevera</a></b><br>
+      Despensa del hogar con alertas de vencimiento; funciona sin internet. En equipo.
+    </td>
+  </tr>
+</table>
 
----
+## En el taller
 
-## 🛠️ Herramientas que amo 🛠️
-![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000000) 
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=000000) 
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=ffffff)
+| Proyecto | Qué es | Con qué |
+|---|---|---|
+| **Asistente personal** | La IA conversa, anota post-its y tareas y programa mis avisos. Se respalda sola y llega al iPhone como notificación. | Flutter · Riverpod · Drift · Postgres · Web Push |
+| **Vuelta** | Domicilios de barrio: el cliente escribe su lista y hace una oferta; un domiciliario verificado compra y entrega con PIN. | React · Vite · Firebase · Wompi |
+| **Nimbo** | Una nubecita de escritorio que vigila mis sesiones de Claude Code y reparte los pedidos entre ellas. Nunca envía nada sin que yo lo apruebe. | Electron |
+| **Yggdrasil** | Progresión scout con mitología nórdica: los reinos se desbloquean con méritos aprobados. | Next.js · Supabase |
+| **Valkiria** | App móvil con una mascota animada que reacciona al toque. La dibujo y la animo yo. | React Native · Rive |
 
----
+## Ingeniería
 
-## 🌿 Actualmente estoy...
-- **Aprendiendo:** Más sobre IA y optimización de procesos
-- **Trabajando en:** Mis proyectos de app y menús digitales
-- **Soñando con:** ¡Llevar la tecnología a nuevos niveles!
+- [**Sistema de archivos distribuido**](https://github.com/FedericoChalaca/tadb202610_proyecto_dfs) — un NameNode y tres DataNodes con replicación y tolerancia a fallos. Python y FastAPI.
+- [**Pizzería en .NET 9**](https://github.com/FedericoChalaca/Pizzeria-Arquitectura) — refactor completo hacia SOLID y DDD: repositorios, objetos de valor, agregados y patrones GoF.
+- [**Este portafolio**](https://github.com/FedericoChalaca/portfolio-federico) — React, TypeScript y un portátil en 3D con Three.js.
 
----
+## Con qué trabajo
 
-<div align="center">
-  <h3>¡Conéctate conmigo! 💌</h3>
-  <a href="https://linkedin.com/in/tuUsuario"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://twitter.com/tuUsuario"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-  <a href="https://instagram.com/federico_chalaca"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-</div>
+<p>
+  <img src="https://img.shields.io/badge/TypeScript-22302a?style=flat-square&logo=typescript&logoColor=8fb59b" alt="TypeScript">
+  <img src="https://img.shields.io/badge/React-22302a?style=flat-square&logo=react&logoColor=8fb59b" alt="React">
+  <img src="https://img.shields.io/badge/Next.js-22302a?style=flat-square&logo=nextdotjs&logoColor=8fb59b" alt="Next.js">
+  <img src="https://img.shields.io/badge/Flutter-22302a?style=flat-square&logo=flutter&logoColor=8fb59b" alt="Flutter">
+  <img src="https://img.shields.io/badge/React_Native-22302a?style=flat-square&logo=react&logoColor=8fb59b" alt="React Native">
+  <img src="https://img.shields.io/badge/Node.js-22302a?style=flat-square&logo=nodedotjs&logoColor=8fb59b" alt="Node.js">
+  <img src="https://img.shields.io/badge/.NET-22302a?style=flat-square&logo=dotnet&logoColor=8fb59b" alt=".NET">
+  <img src="https://img.shields.io/badge/Python-22302a?style=flat-square&logo=python&logoColor=8fb59b" alt="Python">
+  <img src="https://img.shields.io/badge/PostgreSQL-22302a?style=flat-square&logo=postgresql&logoColor=8fb59b" alt="PostgreSQL">
+  <img src="https://img.shields.io/badge/Firebase-22302a?style=flat-square&logo=firebase&logoColor=8fb59b" alt="Firebase">
+  <img src="https://img.shields.io/badge/Supabase-22302a?style=flat-square&logo=supabase&logoColor=8fb59b" alt="Supabase">
+  <img src="https://img.shields.io/badge/Vercel-22302a?style=flat-square&logo=vercel&logoColor=8fb59b" alt="Vercel">
+  <img src="https://img.shields.io/badge/Claude-22302a?style=flat-square&logo=claude&logoColor=c48a71" alt="Claude">
+</p>
 
----
+## Cómo trabajo
 
-<div align="center">
-  <p>✨ <strong>Gracias por visitarme, ¡espero que te inspires!</strong> ✨</p>
-  <img src="https://github-readme-stats.vercel.app/api?username=tuUsuario&show_icons=true&theme=radical" />
-</div>
+1. **Entiendo la operación.** Quién hace qué, dónde se pierde tiempo y qué vale la pena automatizar.
+2. **Construyo por entregas.** Avances que se pueden probar desde el primer ciclo, para corregir el rumbo cuando todavía es barato.
+3. **Entrego algo que crece.** Código ordenado, con pruebas, desplegado y listo para evolucionar.
 
----
+## Fuera del código
 
-## 🌍 Short English Version 🌍
-### Hi, I’m Federico!  
-- **Who I am:** Developer | Process Engineer | Entrepreneur  
-- **What I do:** Coding with C, JavaScript, and React  
-- **Projects:** University notes AI app & QR digital menus  
-- **Fun fact:** I love my dog Valkiria and Harry Potter-themed adventures!  
-- **Connect:** [LinkedIn](https://linkedin.com/in/tuUsuario) | [Twitter](https://twitter.com/tuUsuario)
+Dirijo un clan scout, pinto camisas a mano y mi perrita se llama Valkiria (sí, la app lleva su nombre).
 
+<details>
+<summary>English</summary>
 
+<br>
+
+I'm Federico, a full-stack developer in Medellín, Colombia. I turn business processes into working software: online stores, installable web apps and custom management systems. I currently work at Tugu, a fingerprint-payments fintech, and I'm building an AI-first personal assistant on the side.
+
+Reach me at [federicoml2004@gmail.com](mailto:federicoml2004@gmail.com) or on [LinkedIn](https://www.linkedin.com/in/federico-martinez-10b58931a/).
+
+</details>
